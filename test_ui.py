@@ -1,7 +1,3 @@
-
-from playwright.sync_api import sync_playwright
-import  time
-
 from pages.checkout_page import CheckoutPage
 from pages.inventory_page import InventoryPage
 from pages.login_page import LoginPage
